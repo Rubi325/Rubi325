@@ -12,7 +12,7 @@
 ### Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" length="50" />
 
-* 一番得意、大体作成可能
+* 一番得意
 * 実務経験1年
 * 経験4年
 * 実務経験1年
