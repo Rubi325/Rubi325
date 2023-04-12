@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rubi325.
+### Hi there 👋, I'm rmatsuo.
 
 # Technology Stack
 
@@ -12,10 +12,8 @@
 ### Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" length="50" />
 
-* 一番得意
 * 実務経験1年
 * 経験4年
-* 実務経験1年
 
 ### Kotlin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" length="50" />
