@@ -12,7 +12,7 @@
 ### Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" length="50" />
 
-* 実務経験2年
+* 実務経験1年
 * 経験6年
 
 ### Kotlin
