@@ -15,13 +15,9 @@
 
 ### Kotlin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" length="50" />
-
-* 半年程度
 * 基本的な言語の使用理解
 
 ## Infrastructure
 ### AWS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" length="50" />
-
-* クラウドプラクティショナー保持
 * 基本的なサービスの仕様理解
